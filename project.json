@@ -1,0 +1,28 @@
+{
+    "project_type": "javascript",
+    "debugMode": 1,
+    "showFPS": true,
+    "frameRate": 60,
+    "noCache": false,
+    "id": "gameCanvas",
+    "renderMode": 0,
+    "engineDir": "frameworks/cocos2d-html5",
+    "modules": [
+        "cocos2d",
+        "extensions"
+    ],
+    "jsList": [
+        "src/resource.js",
+        "src/StringUtil.js",
+        "src/app.js",
+        "src/ball.js",
+        "src/ngang.js",
+        "src/define.js",
+        "src/resultLayer.js",
+        "src/gameLayer.js",
+        "src/homeLayer.js",
+        "src/popupHelp.js",
+        "src/popupLevel.js",
+        "src/shopLayer.js"
+    ]
+}
